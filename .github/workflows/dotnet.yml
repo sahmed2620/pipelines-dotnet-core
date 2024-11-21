@@ -33,5 +33,5 @@ jobs:
       with:    
         name: webapp    
         path: website/**
-        if-no-files-found: Lwarn      
+        if-no-files-found: warn      
 
